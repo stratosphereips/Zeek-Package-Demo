@@ -1,1 +1,1 @@
-@load ./irc-messages
+@load ./main
